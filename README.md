@@ -7,7 +7,7 @@ Requires Node.js 10.5.0 and up.
 ```sh
 npm install @intrnl/node-worker-pool
 # pnpm install @intrnl/node-worker-pool
-# yarn install @intrnl/node-worker-pool
+# yarn add @intrnl/node-worker-pool
 ```
 
 ## Usage
